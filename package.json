@@ -1,0 +1,24 @@
+{
+  "name": "revision-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gucci1909/revision-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gucci1909/revision-json-server/issues"
+  },
+  "homepage": "https://github.com/gucci1909/revision-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
